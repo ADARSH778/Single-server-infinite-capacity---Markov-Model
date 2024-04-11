@@ -53,7 +53,8 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
-![image](https://github.com/ADARSH778/Single-server-infinite-capacity---Markov-Model/assets/149347361/dd4287c4-5d32-4e4f-b442-adc6b070058b)
+![image](https://github.com/ADARSH778/Single-server-infinite-capacity---Markov-Model/assets/149347361/479de7fc-8c76-410c-981d-ebb923f24b20)
+
 
 ## Result :
 
